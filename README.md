@@ -5,5 +5,9 @@
 <pre><img src="IMG_0259.jpeg" width="204" height="204">
 <h1><a href="https://sourdoughlover.github.io/SDL0/">SDLO</a></h1></pre>
 <hr>
-<pre><img src="IMG_0248.jpeg" width="250" height="204">
+<pre><img src="IMG_0248.jpeg" width="280" height="204">
 <h1><a href="https://sourdoughlover.github.io/Breadgames66/">breadgames66</a></h1></pre>
+<hr>
+<pre><img src="IMG_0171.jpeg" width="260" height="204">
+<h1><a href="https://sourdoughlover.github.io/Sdl88/">Sdl44</a></h1></pre>
+<hr>
