@@ -11,4 +11,4 @@
 <pre><img src="IMG_0171.jpeg" width="260" height="204">
 <h1><a href="https://sourdoughlover.github.io/Sdl44/">Sdl44</a></h1></pre>
 <hr>
-<h1><a https://github.com/sourdoughlover"><img src="IMG_0172.jpeg" width="40" height="40"></a></h1>
+<h1><a https://github.com/sourdoughlover"><img src="IMG_0172.jpeg"></a></h1>
