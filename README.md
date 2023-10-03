@@ -12,4 +12,4 @@
 <h1><a href="https://sourdoughlover.github.io/Sdl44/">Sdl44</a></h1></pre>
 <hr>
 <pre><img src="IMG_0172.jpeg" width="80" height="80">
-<h1><a href="https://sourdoughlover.github.io/Sdl44/">Follow Me!</a></h1></pre>
+<h1><a href="https://github.com/sourdoughlover/">Follow Me!</a></h1></pre>
