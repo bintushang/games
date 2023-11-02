@@ -10,4 +10,4 @@
 <pre><img src="IMG_0172.jpeg" width="80" height="80">
 <p><a href="https://github.com/sourdoughlover/">Follow Me!</a></p></pre>
 <hr>
-<pre><h1><a href="https://sourdoughlover.github.io/benett-stinks/">bennet stinks</a></h1></pre>
+<pre><h1><a href="https://sourdoughlover.github.io/Benett-stinks/">bennet stinks</a></h1></pre>
