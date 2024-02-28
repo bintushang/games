@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html>
 <body>
 <pre><img src="IMG_0259.jpeg" width="204" height="204">
