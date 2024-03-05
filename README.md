@@ -3,7 +3,7 @@
 <html>
 <body>
 <p1>
-  <a href="sourdoughlover.github.io/Gamis/">Games</a>
+  <a href="https://sourdoughlover.github.io/Gamis/">Games</a>
 </p1>
 <pre><img src="IMG_0259.jpeg" width="204" height="204">
 <h1><a href="https://sourdoughlover.github.io/WhiteBread/">WhiteBread</a></h1></pre>
