@@ -1,6 +1,7 @@
 
 <p1>
-  <a href="https://sourdoughlover.github.io/Gamis/">Games</a> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀<a href="https://5dqqmx.sse-0.codesandbox.io/proxy/https://us13.proxysite.com/process.php?d=J8kSoNNegJn5CWgL1hQSybj0mQ%3D%3D&b=9">proxy</a>
+  <a href="https://sourdoughlover.github.io/Gamis/">Games</a> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀<a href="https://5dqqmx.sse-0.codesandbox.io/proxy/https://us13.proxysite.com/process.php?d=J8kSoNNegJn5CWgL1hQSybj0mQ%3D%3D&b=9">proxy</a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://docs.google.com/forms/d/e/1FAIpQLSe6s1JdeUukNc29NOXn3Dtuqqp-R1lhXYkBedgDhTkABbeJIg/viewform">Suggest a game</a>
+</p1>
 <pre><img src="IMG_0259.jpeg" width="204" height="204">
 <h1><a href="https://sourdoughlover.github.io/WhiteBread/">WhiteBread</a></h1></pre>
 <hr>
